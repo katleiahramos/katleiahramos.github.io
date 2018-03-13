@@ -1,0 +1,21 @@
+# Site settings
+title: Katleiah Codes
+header-img: img/home-bg.png
+email: katleiahramos@gmail.com
+copyright_name: katleiahramos
+description: > # this means to ignore newlines until "baseurl:"
+  My Journey as I Make My Way Into the Tech World 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  katleiahramos
+learn_profile: katleiahramos
+email_username: katleiahramos@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
