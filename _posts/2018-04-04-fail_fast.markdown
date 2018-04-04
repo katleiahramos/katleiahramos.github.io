@@ -1,0 +1,27 @@
+---
+layout: post
+title:      "fail fast "
+date:       2018-04-04 16:53:49 +0000
+permalink:  fail_fast
+---
+
+
+
+I've become much faster at debugging because of one simple command in the CLI:
+
+```
+Learn --fail-fast 
+```
+
+
+Running this in the learn IDE runs tests to the first error it encounters, and stops there. 
+
+Why is this useful? 
+
+You don't have to scroll through multiple error messages to find the specific one you're looking for (which, if you code the way I do, happens often when doing labs). 
+
+Many of the labs even state that they are test driven, and therefore you actually *have to* use the tests to determine what your code must do. 
+
+Using --fail-fast helps you piece through those tests, one by one, which is helpful to not only your problem solving process, but also your confidence. 
+
+I've gotten really good at problem sovling (which is  *debugging* is to me) by failing, and failing often. I actually usually create my code based on my error messages.  At first I felt really bad about this, because I felt like I wasn't coding the """right""" way. I realized that forcing myself into what the """right""" way is actually keeps me from moving forward. It's ok to fail, and infact often times you need to do things !(rightWay) - NOT the right way - in order to figure out what the *best* way to do something is for YOU. 
