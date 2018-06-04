@@ -26,7 +26,7 @@ What is a minimalist wardrobe? Pretty much what it sounds like. Cutting down you
 
 ## The Process
 
-**1. 5 minute brainstorm **
+**1. 5 minute brainstorm**
 
 The first thing I did was sit down, set a timer for 5 minutes, and brainstorm ideas. I didn't add detaisl, I just wanted to get out as many ideas as possible so that I could choose and move on. I came up with a couple, but there were two that really stuck out to me. One was to create a teacher portal, with models like teacher, student, class. The other was to create a wardrobe capsule with models like user, clothing, and capsule. I ended up choosing the capsule app. 
 
@@ -35,7 +35,7 @@ The reason I feel this step was important to me personally was that with my CLI 
 I think it's in good practice to make a decision and commit to it. No one says you can't go back and create more sinatra projects later!
 
 
-**2. Wireframing! **
+**2. Wireframing!**
 
 I had attended a sinatra lecture earlier in the week to prepare. I'm so happy I did because the instructor (Howard) pointed out that planning and wireframing were crucial first steps in starting the project. 
 
@@ -51,7 +51,7 @@ After I looked over my attributes and model associations, I was ready to write t
  
  I can't stress enough how easy this step was because of the previous step. Planning is something I've really learned to love and use A LOT. I feel like planning ahead allows me to really understand what I'm doing and also saves me a ton of time. 
  
-**4. Testing with Tux **
+**4. Testing with Tux**
 
 WOOO, testing with tux. Tux is a fantastic Ruby Gem that allows you to work with your relationships and database in a test space.  Before I went on to write any more code, I wanted to make sure that all the assocations (has_many, belongs_to) worked the way I was expecting them to. This is also key to understanding how your app is going to work and reducing issues moving forward. 
 
@@ -62,7 +62,7 @@ Now was time for a lot of coding. The process I used was to image how the user w
 Writing the code for my controller essentially went along in this pattern, testing along the way that everything was doing what I was expecting it to do. 
 
 
-**6. Refactoring/cleaning it up **
+**6. Refactoring/cleaning it up**
 
 There were many times during the process in step 5 that I wasn't sure if I was going to need a certain view (for example, I originally had a view of all the pieces, but later decided to just show all pieces on the user show page). During step 5, I just wrote the code. It's almost felt like a free-write. I knew I could always go back later and refactor it. 
 
