@@ -41,7 +41,7 @@ I had attended a sinatra lecture earlier in the week to prepare. I'm so happy I 
 
 I did my planning a couple of different ways. First, I created a diagram of my model associations so I could keep track of the has_many,  belongs_to, and the has_many_through relationships. I created the diagram below using draw.io
 
-(https://imgur.com/a/cOuGW8h)
+[My Wireframing Draft](https://imgur.com/a/cOuGW8h)
 
 After that I wrote out the attributes for each model, making sure that if there were any belongs_to relationships that the model included a foreign key in their table. (for example, pieces needed to have a column named user_id since a piece of clothing belongs to a user.) 
 
