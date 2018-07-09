@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project: Project Management App "
-date:       2018-07-09 17:10:21 +0000
+date:       2018-07-09 13:10:22 -0400
 permalink:  rails_project_project_management_app
 ---
 
@@ -11,6 +11,7 @@ Me and rails. We didn't vibe at first. As someone who really likes to know know 
 Like a lot of things in life that seem magical, we can begin to make sense of them once we dig a little deeper. (*que song from Holes that goes "diggin oh oh oh diggin"*)
 
 **The Project**
+
 The project I landed on was a pretty typical Project Management app (or to do list type app). I used Ruby on Rails, working with the MVC paradigm to construct an app from the back end to the front end.
 
 The Project Management rails app can be used to create projects with tasks that are assigned to team members.
