@@ -1,15 +1,14 @@
 # Site settings
+author: Katleiah Ramos
 title: Katleiah Codes
 header-img: img/home-bg.png
 email: katleiahramos@gmail.com
-copyright_name: katleiahramos
+copyright_name: Katleiah Ramos
 description: > # this means to ignore newlines until "baseurl:"
   My Journey as I Make My Way Into the Tech World 
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: katkodes
 github_username:  katleiahramos
-learn_profile: katleiahramos
-email_username: katleiahramos@gmail.com
 
 # Build settings
 markdown: kramdown
